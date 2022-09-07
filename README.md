@@ -7,22 +7,21 @@
 <hr>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+***About me ....***
 
-<!-- - 🧠 Callme: ***She/Her*** or ***TeamWorker*** 😊 <br> -->
-- 🤔 I use daily ```.js```,``` .css```, ```.html```
-- 🛠 I’m currently learning about **MERN**🥰<br>
-- 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
-- ⚡ I’m looking for help with anything **I am currently learning! 😅**.
+  Callme: ***She/Her*** or ***TeamWorker*** 😊 <br> 
+ I use daily ```.js```,``` .css```, ```.html```
+ I’m currently learning about **MERN**🥰<br>
+ I’m looking to collaborate on: **Contribute more to Open Source projects.**
+ I’m looking for help with anything **I am currently learning! 😅**.
 
 
 
- <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+ 
 
  <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....*** 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+
 
 
 <p>
@@ -41,7 +40,7 @@
 <br>
 
  <hr>
- <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
+ <h4>Tech Stack..</h4>
 <p >
  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -97,9 +96,15 @@
 </p>
 
 
+
+
+ <br/>
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Be-create&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
 <p>
 <a href="https://github.com/Be-create"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Be-create&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Be-create&show_icons=true&locale=en&layout=compact" alt="ovi"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Be-create&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
@@ -108,13 +113,8 @@
  <br/>
 <p align="center">
 <a href="https://github.com/Be-create"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Be-create&theme=dracula" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Be-create" />
 </span></a> </p>
-
- <br/>
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Be-create&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
-
 
 <hr clear="both">
 
