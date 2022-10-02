@@ -120,5 +120,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Be-create)](https://git.io/streak-stats)
 
+<h3>Thank you for visiting :smiley:</h3>
+
 
 
