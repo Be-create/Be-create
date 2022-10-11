@@ -83,7 +83,7 @@
   
 <!--   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="miro" />&nbsp;&nbsp; -->
 <!--   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />&nbsp;&nbsp; -->
-<!--   <img src="https://img.shields.io/badge/Nodejs-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />&nbsp;&nbsp; -->
+<!--   <img src="https://img.shields.io/badge/-Nodejs-green alt="Nodejs" />&nbsp;&nbsp; -->
 </p>
 <hr>
 
