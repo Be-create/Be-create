@@ -55,7 +55,6 @@
  <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A&logo=Node.js&logoColor=white" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=f60c88&logo=MongoDB&logoColor=white" />&nbsp;&nbsp; 
  <br/>
- <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=MySQL&logoColor=white" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=0c154d&logo=GitHub&logoColor=white" />&nbsp;&nbsp;               
 </p>
 <hr>
