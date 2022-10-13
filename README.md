@@ -78,7 +78,7 @@
   
  
 
-   <img src="https://img.shields.io/badge/nodejs%20-%23F7DF1.svg?&style=for-the-badge&logo=nodejs&logoColor=blue" alt="Nodejs" />&nbsp;&nbsp; 
+  
 </p>
 <hr>
 
